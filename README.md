@@ -1,1 +1,1 @@
-# invoice_pdf_etl
+Developed an ETL pipeline to extract data from invoice PDFs (PDF not provided), using PyPDF to extract key fields (style codes, ID, custom codes, quantity, and amounts), transform the data into a structured format, and load it into a CSV file.
